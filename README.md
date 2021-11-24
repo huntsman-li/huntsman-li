@@ -1,9 +1,6 @@
+![](https://github.com/huntsman-li/huntsman-li/blob/master/header.png)
+
 ### Hi there 👋
-
-<!--
-**huntsman-li/huntsman-li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+[![liam github stats](https://github-readme-stats.vercel.app/api?username=huntsman-li)](https://github.com/huntsman-li)
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=huntsman-li.huntsman-li" alt="visitor badge"/>
